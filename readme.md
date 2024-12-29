@@ -13,4 +13,4 @@ After successful login, you will be welcomed by appropriate messeage in right up
 
 technologies used: Python, TKinter.. MYsql for database connectivity
 
-developed by mohammad bin mazi - MCA-1st year
+developed by mohammad bin mazi - MCA-1st year 1st Sem
